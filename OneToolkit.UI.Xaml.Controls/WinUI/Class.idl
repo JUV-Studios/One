@@ -1,9 +1,0 @@
-namespace OneToolkit_UI_Xaml_Controls_WinUI
-{
-    [default_interface]
-    runtimeclass Class
-    {
-        Class();
-        Int32 MyProperty;
-    }
-}

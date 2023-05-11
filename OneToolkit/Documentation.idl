@@ -1,8 +1,0 @@
-namespace OneToolkit.Metadata.Documentation
-{
-	[attributeusage(target_struct, target_runtimeclass, target_interface, target_event, target_method, target_property, target_field)]
-	attribute SummaryAttribute
-	{
-		String Text;
-	}
-}

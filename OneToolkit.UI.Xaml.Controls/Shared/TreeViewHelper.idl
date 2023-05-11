@@ -1,8 +1,0 @@
-namespace OneToolkit.UI.Xaml.Controls
-{
-	[default_interface]
-	static runtimeclass TreeViewHelper
-	{
-		static IVectorView<Microsoft.UI.Xaml.Controls.TreeViewNode> GetAllNodes(Microsoft.UI.Xaml.Controls.TreeView treeView);
-	}
-}

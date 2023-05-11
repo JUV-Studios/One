@@ -1,8 +1,0 @@
-namespace OneToolkit.UI.Xaml.Controls
-{
-    [default_interface]
-	static runtimeclass ContentDialogHelper
-	{
-		static Windows.UI.Xaml.Controls.ContentDialog GetCurrentlyShownDialog(Windows.UI.Xaml.Window window);
-    }
-}
